@@ -59,8 +59,8 @@ R² = 1 − (SS_res / SS_tot)
 ## Build & Run
 
 ```bash
-git clone https://github.com/Musab-Waqar/Machine_learning_projects.git
-cd Machine_learning_projects/linear_regression
+git clone https://github.com/Musab-Waqar/linear_regression.git
+cd linear_regression
 ```
 
 Open `CMakeLists.txt` in Qt Creator, configure with a Qt 6 kit that includes Charts, then build and run (**Ctrl+R**).
