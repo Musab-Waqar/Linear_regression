@@ -12,7 +12,7 @@ A simple linear regression tool built from scratch in C++ and Qt. No ML librarie
 
 ## Preview
 
-![App Preview](https://placehold.co/700x420/1e1e2e/4fc3f7?text=Linear+Regression+App+%E2%80%94+Screenshot+Here)
+![App Preview](screenshot.png)
 
 *Drag-and-drop CSV loading, live scatter plot, fitted regression line, and predicted point shown in red.*
 
